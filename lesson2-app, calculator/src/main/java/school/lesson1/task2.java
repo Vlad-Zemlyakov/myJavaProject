@@ -8,7 +8,7 @@ public class task2 {
         int a = 2;
         int b = -3;
         int res = a + b;
-        if (res>=0) {System.out.println("Сумма положительная322");}
+        if (res>=0) {System.out.println("Сумма положительная!!!!!!!!!!!!!");}
         else {System.out.println("Сумма отрицательная");}
     }
 }
